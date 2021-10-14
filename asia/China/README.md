@@ -1,3 +1,3 @@
 # CHINA
-  - [Beijing](/Beijing.md)
+  - [Beijing](Beijing/Beijing.md)
 

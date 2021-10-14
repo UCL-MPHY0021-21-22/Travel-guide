@@ -1,1 +1,2 @@
 # EUROPE
+[Norway]norway.md

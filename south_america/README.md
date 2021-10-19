@@ -1,3 +1,3 @@
 
 # SOUTH_AMERICA
- - [Peru](./Peru.md)
+ - [Peru](./Peru/README.md)

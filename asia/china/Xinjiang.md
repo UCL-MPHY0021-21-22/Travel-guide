@@ -1,2 +1,2 @@
 # Xinjiang
-- [Mount Tianshan](Tianshan.md)
+- [Mount Tianshan](./Tianshan.md)

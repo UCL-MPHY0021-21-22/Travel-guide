@@ -10,4 +10,4 @@
 
 # Add the internal links
 - [Beijing](./Beijing.md)
-- [China](./china/README.md)
+- [README](./README.md)

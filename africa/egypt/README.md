@@ -1,3 +1,3 @@
 # Egypt
 
-- [Cairo/Giza](.cairo.md)
+- [Cairo/Giza](cairo.md)

@@ -1,0 +1,2 @@
+# Norway
+[norway](./norway.md)

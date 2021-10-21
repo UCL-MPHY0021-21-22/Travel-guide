@@ -1,4 +1,4 @@
 # AFRICA
 
 - [South Africa](./south_africa/README.md)
-- [Cairo](./egypt/README.md)
+- [Egypt](./egypt/README.md)

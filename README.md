@@ -5,4 +5,5 @@
  - [NORTH_AMERICA](./north_america/README.md)
  - [OCEANIA](./oceania/README.md)
  - [SOUTH_AMERICA](./south_america/README.md)
- - [Shanxi](./asia/china/Shanxi.md)
+ - [link_parent](./asia/china/Shanxi.md)
+ - [external_link](./asia/china/Shanxi.md)

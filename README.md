@@ -7,4 +7,4 @@
  - [SOUTH_AMERICA](./south_america/README.md)
  - [Africa](./africa/README.md)
 
- - [Shanxi](./asia/china/Shanxi.md)
+ - [Shanxi](https://github.com/Timlllllli/Travel-guide/blob/yahhh/asia/china/Shanxi.md)

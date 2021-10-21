@@ -1,3 +1,3 @@
 # EUROPE
-[Norway](./Norway/norway.md)
+[Norway](./Norway/README.md)
 [uk](./uk/README.md)

@@ -1,3 +1,3 @@
 # Xinjiang
  
-- [Tianshan](./china/Xinjiang/README.md)
+- [Tianshan](./Tianshan.md)

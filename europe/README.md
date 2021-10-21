@@ -1,2 +1,2 @@
 # EUROPE
-[Norway](norway.md)
+[Norway]( Norway/norway.md)

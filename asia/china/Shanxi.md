@@ -9,5 +9,5 @@
    (https://en.wikipedia.org/wiki/Yuncheng)
 
 # Add the internal links
-- [Beijing](./Beijing.md)
 - [README](./README.md)
+- [Beijing](./Beijing.md)

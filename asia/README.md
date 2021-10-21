@@ -1,2 +1,2 @@
 # ASIA
--[Guangzhou](./china/Guangzhou.md)
+-[China](./china/README.md)

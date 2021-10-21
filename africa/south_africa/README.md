@@ -1,3 +1,3 @@
-# South Africa
+# AFRICA
 
-- [Hermanus](hermanus.md)
+- [South Africa](./south_africa/README.md)

@@ -8,6 +8,4 @@
    (https://en.wikivoyage.org/wiki/Yuncheng) and [wikipedia]
    (https://en.wikipedia.org/wiki/Yuncheng)
 
-# Add the internal links
-- [README](./README.md)
-- [Beijing](./Beijing.md)
+

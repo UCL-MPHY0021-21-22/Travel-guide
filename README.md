@@ -1,4 +1,4 @@
-# Worldwise guide
+# The ultimate travel guide
 
  - [ASIA](./asia/README.md)
  - [EUROPE](./europe/README.md)
@@ -7,4 +7,4 @@
  - [SOUTH_AMERICA](./south_america/README.md)
  - [Africa](./africa/README.md)
 
- - [Shanxi](https://github.com/Timlllllli/Travel-guide/blob/yahhh/asia/china/Shanxi.md)
+

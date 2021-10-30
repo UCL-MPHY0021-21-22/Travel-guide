@@ -5,3 +5,4 @@
  - [Shanghai](./shanghai.md)
  - [Mount_Everest](./Mount_Everest.md)
  - [Xinjiang](./Xinjiang/README.md)
+ - [Weihai](./Weihai.md)

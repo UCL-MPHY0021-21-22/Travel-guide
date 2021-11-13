@@ -1,3 +1,3 @@
 # Korea
 
-- [Seoul](seoul.md)
+- [LotteWorld](./Lotte_World.md)

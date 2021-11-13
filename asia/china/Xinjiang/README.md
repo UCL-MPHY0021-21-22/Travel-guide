@@ -1,3 +1,0 @@
-# Xinjiang
- 
-- [Tianshan](./Tianshan.md)

@@ -1,3 +1,3 @@
 # Korea
 
-- [Korea](./Lotte_World/README.md)
+- [LotteWorld](Lotte_World.md)
